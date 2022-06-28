@@ -4,8 +4,8 @@ h1 {
 }
 
 .created-team {
-    flex-wrap: warp;
-    max-width: 600px;
+    flex-wrap: wrap;
+    max-width: 800px;
 }
 
 .employee-info {
