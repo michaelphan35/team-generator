@@ -10,7 +10,7 @@ h1 {
 
 .employee-info {
     color: black;
-    background-color: rgb(168, 2, 15);
+    background-color: black;
     display: flex;
     flex-direction: column;
     justify-content: space-between;
