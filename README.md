@@ -8,6 +8,7 @@
 -[License](#license)<br/>
 -[Contribution](#contribution)<br/>
 -[Screenshots](#screenshots)<br/>
+-[License](#license)<br/)
 -[Questions](#questions)<br/>
     
 ## Description
@@ -27,8 +28,8 @@ none
 no other contributers for this project.
 
 ## Screenshots of the Project
-![HTML page created](./media/screenshots.on.loadup.jpg?raw=true "Pass Generator Web Screenshot")
-![Command Line Prompt run](./media/command_lind_prompt_run.jpg?raw=true "Command Line Prompt Activation")
+![HTML page created](./media/html_creation.jpg?raw=true "HTML Page creation")
+![Command Line Prompt run](./media/command_line_prompt_run.jpg?raw=true "Command Line Prompt Activation")
 
 ## License
 [GPL](https://choosealicense.com/licenses/gpl-3.0/)
