@@ -1,0 +1,27 @@
+h1 {
+    background-color: royalblue;
+    color: black
+}
+
+.created-team {
+    flex-wrap: warp;
+    max-width: 600px;
+}
+
+.employee-info {
+    color: black;
+    background-color: thistle;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    width: 90%;
+    border: 1px;
+    border-color: aquamarine;
+}
+
+.card-body {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    background-color: aliceblue;
+}

@@ -1,3 +1,4 @@
+// Function to create team member cards
 const createdTeam = team => {
 
     const generateManager = manager => {
@@ -47,6 +48,9 @@ const createdTeam = team => {
         
     };
 
+
+    // Gets all answers from CLI prompt, puts its into an array and filter the answers.
+
     const html = [];
 
     html.push(team
@@ -64,6 +68,8 @@ const createdTeam = team => {
 
     return html.join("");
 }
+
+// Exports the module to be used by index.js
 
 export default team => {
     return `<!DOCTYPE html>
