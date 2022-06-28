@@ -8,7 +8,7 @@
 -[License](#license)<br/>
 -[Contribution](#contribution)<br/>
 -[Screenshots](#screenshots)<br/>
--[License](#license)<br/)
+-[License](#license)<br/>
 -[Questions](#questions)<br/>
     
 ## Description
